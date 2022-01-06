@@ -1,5 +1,4 @@
-# A simple matrix calculator in the terminal
-He can:
+# A simple matrix calculator in the terminal. He can:
 1. Addition of two matrices (+ rewriting the first)
 2. Subtracting two matrices (+ rewriting the first)
 3. Matrix assignment
